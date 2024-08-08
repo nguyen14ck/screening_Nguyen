@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "chrono": "cpp",
+        "ctime": "cpp",
+        "memory": "cpp",
+        "iosfwd": "cpp"
+    }
+}

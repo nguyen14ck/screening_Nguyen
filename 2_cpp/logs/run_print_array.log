@@ -1,0 +1,21 @@
+(base) npnguyen@LinuxMintNpnguyen:/media/npnguyen/WD18T_1B/work3/kla/screening/2_cpp$ src/2_profiling_4.sh 
+/bin/bash: /home/npnguyen/anaconda3/envs/ovn/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+
+Array in a line: 0 1 2 3 4 5 6 7 8 9 
+
+Array in a triangle:
+   0 
+  1 2 
+ 3 4 5 
+6 7 8 9 
+
+Elapsed time: 0 milliseconds
+CPU time used: 0 seconds
+Memory usage: 1540 KB
+
+Most called repeating: std::chrono::duration<long,std::ratio<1l,1000000000l>>::count() | Number-of-calls: 3
+Most called duration: std::chrono::duration<long,std::ratio<1l,1000000000l>>::count()   | Self-time: 0.00
+
+Successfully saved profiling results to file: logs/tem_profile.txt
+
+(base) npnguyen@LinuxMintNpnguyen:/media/npnguyen/WD18T_1B/work3/kla/screening/2_cpp$ 

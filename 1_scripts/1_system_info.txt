@@ -1,0 +1,5 @@
+Number of cpus: 28
+
+Available disk space: 13T
+
+Used memory: 16452 MB

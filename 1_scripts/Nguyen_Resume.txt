@@ -1,0 +1,199 @@
+NGUYEN PHUOC NGUYEN
+Artificial intelligence - Computer vision/graphics - Image processing
+Email: ngphnguyen@gmail.com
+
+Cell: 936 252 7407
+
+CAREER OBJECTIVES
+Developing AI-based applications for computer vision/graphics, image analysis, and optimizing manufacturing systems.
+
+EDUCATION
+•
+•
+•
+
+PhD in Computer Science (2023) (focusing on AI/Machine Learning guided Computer Vision and Image Analysis,
+University of Missouri – Columbia (GPA: 3.87/4)
+Master of Science in Industrial Engineering - University of Missouri - Columbia (GPA: 3.96/4)
+Thesis: Text mining for big data with neural network and Hadoop
+Bachelor of Science in Industrial Engineering – Ho Chi Minh University of Technology (VN National University)
+(GPA: 7/10) Thesis: Solving vehicle routing and scheduling problem for Saigon Beer
+
+SKILLS
+•
+
+Computer vision / Image processing / Computer graphics: Python, C++, C# (OpenCV, Cognex), Matlab
+
+•
+
+3D Reconstruction & Electron microscopy image analysis: RELION - CryoSparc, Amira/Avizo – MIB
+
+•
+
+Deep learning tools: PyTorch, Tensorflow, Matlab
+
+•
+
+MLOps: using Docker container and Kubernetes, Continuous Integration/Delivery, Deployment on Azure
+
+•
+
+Embedded machine learning: OpenVINO, Raspberry Pi
+
+•
+
+Software development: Visual C# (WindowsForm, WPF, Asp.net), SQL Server, Excel VBA macro
+
+•
+
+Generative AI: finetuning large language models (LLM), stable diffusion models
+
+•
+
+Optimization: GAMS-Cplex, Lingo, Gurobi, Matlab; Simulation: Arena; CAD/CAM/CNC: SolidWorks, MasterCAM
+
+CERTIFICATES
+•
+
+OpenCV Python 1, 2
+
+OpenCV C++ 1, 2
+
+•
+
+Deep Learning PyTorch, Tensorflow Sensor Fusion, Multi Object Tracking
+
+•
+•
+
+Azure Fundamentals
+Green belt six-sigma
+
+CUDA C++, Python
+
+INDUSTRY EXPERIENCE
+Machine Vision Engineer (Applied Optoelectronics, Inc., Houston TX) Aug 2023 – Present
+•
+
+Developing deep learning models and application for visual inspection of semiconductor wafer chips using:
+o Open-source framework (OpenCV, PyTorch, Qt for unsupervised learning approach)
+o Cognex framework and Visual C# (for supervised learning approach) (improved accuracy from 94% to 98+%)
+o SQL Server database
+o Automating report generation using SAP Crystal report
+Postdoctoral Appointee - Machine Learning for Computational X-Ray Science (received offer from Argonne National
+Laboratory, Lemont, IL)
+July 2023
+Computer Science Co-op (Bayer Crop Science, USA)
+Jan 2023 – June 2023
+Analyzing manufacturing data, participating in a simulation project (virtual factory) for business decision support system
+Senior Professional I (received offer from Samsung Display, Vietnam)
+July 2022
+• Addressing software and hardware issues for machine vision, improving vision programs
+• Analyzing and developing new vision software (for manufacturing systems of display products)
+Medical Imaging Research Intern (Siemens Healthineers, Princeton, NJ, USA)
+Jun 2020 – Aug 2020
+Developing deep learning models for analysis of 3D brain CT images. Our work received a patent in 2022
+Manufacturing Engineer (received offer from Clinical Innovations in Salt Lake City, UT, USA)
+Aug 2015
+Optimizing the workflow, facility layout, equipment efficiency, workforce utilization in a plant producing medical devices
+
+GITHUB https://github.com/nguyen14ck?tab=repositories&q=&type=public&language=&sort=
+
+ACADEMIC EXPERIENCE
+Research Assistant (University of Missouri - Electron Microscopy Core Facility)
+May 2017 – Dec 2022
+• Developing deep learning models for object detection & segmentation, denoising and reconstructing images
+o Object detection and classification: 2D macro molecules (DRPnet), 3D sub-tomograms
+o Semantic segmentation, instance segmentation of cells (mitochondria, axon), viruses, carbon nanotubes…
+o Denoising tomography volumes
+• Using Matlab – Amira to segment and analyze electron microscopy images for biomedical research
+o FIB-SEM images: 2D slices, 3D volumes
+o Quantifying objects based on intensity, textures, sizes & shapes…
+• 3D reconstruction of macro molecules: using RELION, CryoSparc, and Reinforcement learning
+• Writing scripts to submit jobs on high-performance computer cluster (with GPU)
+Research Assistant (University of Missouri - Research Computing Center)
+Sep 2016 – May 2017
+• Analyzing operation data of users on cluster (Slurm)
+• Installing and testing software on cluster (CentOS 7)
+• Using deep learning to analyze building energy consumption from big data (with Spark, DesingBuilder and Energy+)
+Teaching Assistant, University of Missouri, Columbia
+Spring 2014 – Spring 2016
+Courses: Engineering Statistics (with R), Manufacturing & Supply Chain Management , Information System,
+Advanced CAD/CAM
+
+AWARD Outstanding PhD Student - Dept. of Electrical Engineering and Computer Science, University of Missouri (2023)
+PATENT
+Nguyen, N. P., Yoo, Y., Chekkoury, A., Pascal, C., Gibson, E. Automated Estimation Of Midline Shift In Brain CT Images.
+US Patent App. 17/303,932 filed by Siemens Medical Solutions USA, Inc in June 2021, approved in Mar 2022
+
+GOOGLE SCHOLAR PROFILE link
+SELECTED PUBLICATIONS
+1.
+
+2.
+
+3.
+
+4.
+5.
+6.
+
+7.
+8.
+
+Nguyen, N. P., Ersoy, I., Gotberg, J., Bunyak, F., & White, T. A. (2021). DRPnet: automated particle picking in cryo-electron
+micrographs using deep
+regression.
+BMC
+Bioinformatics,
+22(1),
+55–28.
+doi:
+10.1186/s12859-020-03948-x
+https://doi.org/10.1186/s12859-020-03948-x
+Gubins, Ilja and Chaillet, Marten L. and Schot, Gijs van der and Trueba, M. Cristina and Veltkamp, Remco C. and Forster,
+Friedrich and Wang, Xiao and Kihara, Daisuke and Moebel, Emmanuel and Nguyen, Nguyen P. and White, Tommi and Bunyak,
+Filiz et al. (2021). SHREC 2021: Classification in Cryo-electron Tomograms. The Eurographics Association.
+https://diglib.eg.org/handle/10.2312/3dor20211307
+Nguyen, N.P., Yoo, Y., Chekkoury, A., Eibenberger, E., Re, T.J., Das, J., Balachandran, A., Lui, Y.W., Sanelli, P.C., Schroeppel, T.J.,
+Bodanapally, U.K., Nicolaou, S., White, T.A., Bunyak, F., Comaniciu, D., & Gibson, E. (2021). Brain midline shift detection and
+quantification by a cascaded deep network pipeline on non-contrast computed tomography scans. 2021 IEEE/CVF International
+Conference on Computer Vision (ICCV) Workshops, 487-495.
+Nguyen, N. P., White, T., & Bunyak, F. (2021) Mitochondria Instance Segmentation in Electron Microscopy Image Volumes using
+3D Deep Learning Networks. IEEE/Applied Imagery Pattern Recognition (AIPR) Workshop.
+Alarcon, Mauro L., Wang, Songjie, Nguyen, N. P., Pandey, Ashish, Bunyak, Filiz, Maschmann, Matthew, … Calyam, Prasad.
+(2022). AI-Based Analytics and Remote Instrumentation Science Gateway. Proceedings of the eScience Conference.
+Nguyen, N. P., Surya, Ramakrishna, Maschmann, Matthew, Calyam, Prasad, Palaniappan, Kannappan, Bunyak, Filiz. (2022). Dual
+Loss Self-supervised Network for Segmentation of Carbon Nanotubes in SEM Imagery. Proceedings of the European Conference on
+Computer Vision (ECCV) Workshops.
+Nguyen, N. P., Lopez, S., Smith, C. L., Lever, T. E., Nichols, N. L., & Bunyak, F. (2022) Axon and Myelin Sheath Segmentation in
+Electron Microscopy Images using Meta Learning. IEEE/Applied Imagery Pattern Recognition (AIPR) Workshop.
+Nguyen, N. P., Surya, Ramakrishna, Calyam, Prasad, Palaniappan, Kannappan, Maschmann, Matthew, Bunyak, Filiz. (2023).
+CNT-NeRF: Carbon Nanotube Forest Depth Layer Decomposition in SEM Imagery using Generative Adversarial Networks.
+Proceedings of the Computer Vision and Pattern Recognition (CVPR) Workshops.
+
+REVIEWS
+•
+
+PLOS ONE journal
+
+•
+
+•
+
+COMPUTER METHODS AND PROGRAMS IN
+BIOMEDICINE journal
+
+IEEE International Conference on Bioinformatics and
+Biomedicine Workshop (BIBM) 2021
+
+•
+
+International Conference of Pattern Recognition
+(ICPR) 2020, 2022
+
+•
+
+ACM Computing Surveys journal
+
+

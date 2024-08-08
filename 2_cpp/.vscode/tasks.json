@@ -1,0 +1,56 @@
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "WIN g++ build & debug file",
+            "command": "C:/MinGW/bin/g++",
+            "args": [
+                "-g",
+                "${file}",
+                "-I",
+                "${workspaceRoot}/include",
+                "-o",
+                "${workspaceRoot}/bin/${fileBasenameNoExtension}"
+            ],
+            "options": {
+                "cwd": "./bin"
+            }
+        },
+        {
+            "type": "shell",
+            "label": "g++ build & debug file",
+            "command": "/bin/g++",
+            "args": [
+                "-g",
+                "${file}",
+                "-I${workspaceRoot}/include",
+                "-I/usr/include",
+                "-lglut",
+                "-lGLU",
+                "-lGL",
+                "-o",
+                "${workspaceRoot}/bin/${fileBasenameNoExtension}"
+            ],
+            "options": {
+                "cwd": "/bin"
+            }
+        },
+        {
+            "type": "shell",
+            "label": "g++ build & run file",
+            "command": "/bin/g++",
+            "args": [
+                "${file}",
+                "-I",
+                "${workspaceRoot}/include",
+                "-o",
+                "${workspaceRoot}/bin/${fileBasenameNoExtension}"
+            ],
+            "options": {
+                "cwd": "/bin"
+            }
+        },
+        
+    ],
+    "version": "2.0.0"
+}
